@@ -64,3 +64,7 @@ $ forge --help
 $ anvil --help
 $ cast --help
 ```
+
+forge install openzeppelin/openzeppelin-contracts
+https://gitlab.com/hoanghoo/ethernaut-foundry/-/blob/main/test/1_Fallback.t.sol?ref_type=heads
+https://github.com/az0mb13/ethernaut-foundry/blob/master/instances/Ilevel01.sol

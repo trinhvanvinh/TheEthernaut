@@ -4,3 +4,11 @@ out = "out"
 libs = ["lib"]
 
 # See more config options https://github.com/foundry-rs/foundry/blob/master/crates/config/README.md#all-options
+
+remappings = [
+    "@openzeppelin/=lib/openzeppelin-contracts/",
+    "@openzeppelin-06/=lib/openzeppelin-contracts-06/",
+]
+
+eth_rpc_url = 'https://rpc.ankr.com/eth_sepolia'
+etherscan_api_key = '${6a899f8a99a47981d679a4c1a305693f8b96d6c305c764bc47d19b1b19fa212f}'
