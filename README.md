@@ -4,10 +4,10 @@
 
 Foundry consists of:
 
--   **Forge**: Ethereum testing framework (like Truffle, Hardhat and DappTools).
--   **Cast**: Swiss army knife for interacting with EVM smart contracts, sending transactions and getting chain data.
--   **Anvil**: Local Ethereum node, akin to Ganache, Hardhat Network.
--   **Chisel**: Fast, utilitarian, and verbose solidity REPL.
+- **Forge**: Ethereum testing framework (like Truffle, Hardhat and DappTools).
+- **Cast**: Swiss army knife for interacting with EVM smart contracts, sending transactions and getting chain data.
+- **Anvil**: Local Ethereum node, akin to Ganache, Hardhat Network.
+- **Chisel**: Fast, utilitarian, and verbose solidity REPL.
 
 ## Documentation
 
@@ -68,3 +68,6 @@ $ cast --help
 forge install openzeppelin/openzeppelin-contracts
 https://gitlab.com/hoanghoo/ethernaut-foundry/-/blob/main/test/1_Fallback.t.sol?ref_type=heads
 https://github.com/az0mb13/ethernaut-foundry/blob/master/instances/Ilevel01.sol
+
+https://github.com/Simon-Busch/Foundry-ethernaut-solutions/tree/main/test
+https://ethernaut.openzeppelin.com/level/0xb2aBa0e156C905a9FAEc24805a009d99193E3E53
