@@ -71,3 +71,7 @@ https://github.com/az0mb13/ethernaut-foundry/blob/master/instances/Ilevel01.sol
 
 https://github.com/Simon-Busch/Foundry-ethernaut-solutions/tree/main/test
 https://ethernaut.openzeppelin.com/level/0xb2aBa0e156C905a9FAEc24805a009d99193E3E53
+
+
+https://www.damnvulnerabledefi.xyz/
+https://github.com/nicolasgarcia214/damn-vulnerable-defi-foundry?source=post_page-----eab417db1a51--------------------------------
